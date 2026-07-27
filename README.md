@@ -71,14 +71,12 @@ The dashboard provides executive insights into sales performance, customer behav
 - Scatter Charts
 - Matrix
 - Slicers
-- Azure Maps
+- Maps
 - Executive Reporting
 
 ---
 
 ## Screenshots
-
-(Add dashboard screenshots here)
 
 ---
 
